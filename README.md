@@ -1,1 +1,1 @@
-# energy-consumption-of-appliances
+# Quiz: energy-consumption-of-appliances
